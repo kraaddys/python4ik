@@ -1,0 +1,4 @@
+it: 28733.33
+management: 21600.00
+marketing: 36500.00
+financy: 23783.33
